@@ -9,8 +9,7 @@ namespace TesteGit
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia");
             Console.ReadLine();
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Bom dia");
+            Console.WriteLine("Como vai ?");
             Console.ReadLine();
         }
     }
