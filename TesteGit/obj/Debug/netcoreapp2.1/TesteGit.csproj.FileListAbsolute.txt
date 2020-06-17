@@ -1,0 +1,11 @@
+C:\Users\ddaraujo\source\repos\TesteGit\TesteGit\bin\Debug\netcoreapp2.1\TesteGit.deps.json
+C:\Users\ddaraujo\source\repos\TesteGit\TesteGit\bin\Debug\netcoreapp2.1\TesteGit.runtimeconfig.json
+C:\Users\ddaraujo\source\repos\TesteGit\TesteGit\bin\Debug\netcoreapp2.1\TesteGit.runtimeconfig.dev.json
+C:\Users\ddaraujo\source\repos\TesteGit\TesteGit\bin\Debug\netcoreapp2.1\TesteGit.dll
+C:\Users\ddaraujo\source\repos\TesteGit\TesteGit\bin\Debug\netcoreapp2.1\TesteGit.pdb
+C:\Users\ddaraujo\source\repos\TesteGit\TesteGit\obj\Debug\netcoreapp2.1\TesteGit.csprojAssemblyReference.cache
+C:\Users\ddaraujo\source\repos\TesteGit\TesteGit\obj\Debug\netcoreapp2.1\TesteGit.csproj.CoreCompileInputs.cache
+C:\Users\ddaraujo\source\repos\TesteGit\TesteGit\obj\Debug\netcoreapp2.1\TesteGit.AssemblyInfoInputs.cache
+C:\Users\ddaraujo\source\repos\TesteGit\TesteGit\obj\Debug\netcoreapp2.1\TesteGit.AssemblyInfo.cs
+C:\Users\ddaraujo\source\repos\TesteGit\TesteGit\obj\Debug\netcoreapp2.1\TesteGit.dll
+C:\Users\ddaraujo\source\repos\TesteGit\TesteGit\obj\Debug\netcoreapp2.1\TesteGit.pdb
